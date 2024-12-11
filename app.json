@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "arvore-natal",
+    "name": "Arvore de Natal",
     "slug": "arvore-natal",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -14,8 +14,9 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+        "backgroundColor": "#5cb4ff"
+      },
+      "package": "com.joaoenrique13.arvorenatal"
     },
     "web": {
       "bundler": "metro",
@@ -36,6 +37,20 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "04f21ed1-464b-4bc7-9659-b1dc8b970317"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/04f21ed1-464b-4bc7-9659-b1dc8b970317"
     }
   }
 }
