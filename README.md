@@ -1,3 +1,7 @@
+https://github.com/user-attachments/assets/d3a13f9f-2ac0-40f0-afc3-6d287f92fce3
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
